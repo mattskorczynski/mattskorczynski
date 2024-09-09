@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior at Fordham University studying Math and Computer science. I'm super passionate about programming, especially video games and financial tools.<br>
+I'm a Senior at Fordham University studying Math and Computer science. I'm super passionate about programming, especially video games and financial tools.<br>
 
 
 ## 🌐 Socials:
