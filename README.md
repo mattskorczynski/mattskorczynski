@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Math and Computer science graduate from Fordham University. I'm super passionate about learning and doing more with programming, especially data analysis and financial tools.<br>
+I'm a Math and Computer science graduate from Fordham University. I'm super passionate about learning and doing more with programming, especially around data analysis and financial tools.<br>
 
 
 ## 🌐 Socials:
