@@ -3,13 +3,28 @@ I'm a Math and Computer science graduate from Fordham University. I'm super pass
 
 
 ## Socials and Projects:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewskorczynski) 
 
-[Equity Pricing Data Analysis](https://github.com/mattskorczynski/SP500-Data-Analysis-Project)
-[Bond Reference Data Management](https://github.com/mattskorczynski/Corp_Bond_Ref_DataBase)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewskorczynski)
+
+<br>
+
+[![Equity Pricing Data Analysis](https://img.shields.io/badge/Project-Equity%20Pricing%20Data%20Analysis-1f6feb?style=for-the-badge)](https://github.com/mattskorczynski/SP500-Data-Analysis-Project)
+
+<br>
+
+[![Bond Reference Data Management](https://img.shields.io/badge/Project-Bond%20Reference%20Data%20Management-1f6feb?style=for-the-badge)](https://github.com/mattskorczynski/Corp_Bond_Ref_DataBase)
+
 
 # Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- 
 # GitHub Stats:
