@@ -8,11 +8,12 @@ I'm a Math and Computer science graduate from Fordham University. I'm super pass
 
 <br>
 
-[![Equity Pricing Data Analysis](https://img.shields.io/badge/Project-Equity%20Pricing%20Data%20Analysis-1f6feb?style=for-the-badge)](https://github.com/mattskorczynski/SP500-Data-Analysis-Project)
+[![Bond Reference Data Management](https://img.shields.io/badge/Project-Bond%20Reference%20Data%20Management-1f6feb?style=for-the-badge)](https://github.com/mattskorczynski/Corp_Bond_Ref_DataBase)
+
 
 <br>
 
-[![Bond Reference Data Management](https://img.shields.io/badge/Project-Bond%20Reference%20Data%20Management-1f6feb?style=for-the-badge)](https://github.com/mattskorczynski/Corp_Bond_Ref_DataBase)
+[![Equity Pricing Data Analysis](https://img.shields.io/badge/Project-Equity%20Pricing%20Data%20Analysis-1f6feb?style=for-the-badge)](https://github.com/mattskorczynski/SP500-Data-Analysis-Project)
 
 
 # Tech Stack:
